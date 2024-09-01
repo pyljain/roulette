@@ -1,0 +1,4 @@
+cacheSize: 5000
+unit: "Kb"
+bucket: roulette-cache
+port: 8080
